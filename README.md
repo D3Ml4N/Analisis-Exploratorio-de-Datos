@@ -25,6 +25,4 @@ Out[42]: Finalmente se imprimen el array correspondiente a los últimos 100 valo
 
 In[47]: Se exporta el array de Out[42] con sus respetivas etiquetas en un archivo csv llamado 'Predicciones.csv'
 
-# Conclusiones
-
 
