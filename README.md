@@ -1,5 +1,6 @@
-# Analisis-Exploratorio-de-Datos
+# Analisis Exploratorio de Datos
 
+#Objetivos
 Este proyecto tiene como objetivo proporcionar una comprención de un ejemplo practico del uso del algoritmo de RandomForest 
 para resolución de problemas de clasificación y regresión de Machine Learning.
 
