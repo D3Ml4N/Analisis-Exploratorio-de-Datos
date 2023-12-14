@@ -18,6 +18,7 @@ Se crean los dataframes individuales que contienen la variable a predecir e índ
 
 Out[33]: Se imprime la tabla correspondiente al 10% de datos para la prueba del modelo.
 
+# Resultados
 Out[41]: Se proporciona el array que el modelo predice respecto al test del 10% de los datos, donde '1' corresponde al valor 'Positivo', y '0' al valor 'Negativo'. La precisión del modelo comparando las predicciones con las etiquetas reales en el conjunto de prueba es del 91%.
 
 Out[42]: Finalmente se imprimen el array correspondiente a los últimos 100 valores faltantes que el modelo debía predecir.
