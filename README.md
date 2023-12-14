@@ -12,3 +12,4 @@ Se importa la función 'train_test_split' de 'scikit-learn' para dividir los dat
 Se crean los dataframes individuales que contienen la variable a predecir e índices para el cálculo de las predicciones que no incluyan los ultimos 100 datos faltantes.
 El 10% de los datos de las tablas son usados como el conjunto de prueba, usando 1500 árboles de decisión.
 La precisión del modelo comparando las predicciones con las etiquetas reales en el conjunto de prueba es del 91%.
+.
