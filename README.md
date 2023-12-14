@@ -24,3 +24,7 @@ Out[41]: Se proporciona el array que el modelo predice respecto al test del 10% 
 Out[42]: Finalmente se imprimen el array correspondiente a los últimos 100 valores faltantes que el modelo debía predecir.
 
 In[47]: Se exporta el array de Out[42] con sus respetivas etiquetas en un archivo csv llamado 'Predicciones.csv'
+
+# Conclusiones
+
+
